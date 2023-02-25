@@ -146,6 +146,12 @@ h3{
     .outline-5{
         margin-top: 28%;
         padding: 4px;
+        width:70%;
+        margin-left:14%;
+    }
+    .outline-4{
+        width:70%;
+        margin-left:14%;
     }
     h4{
         text-align: center;
